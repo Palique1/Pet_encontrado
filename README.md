@@ -47,7 +47,17 @@ Aplicativo web mobile para busca, cadastro e resgate colaborativo de animais de 
 
 ---
 
-## 💻 Como Rodar o Projeto Localmente
+## 🌐 Como Acessar Online (Sem Localhost)
+
+O aplicativo já está publicado e pronto para ser acessado por qualquer pessoa via internet em qualquer dispositivo (celular, tablet ou computador):
+
+- **Link Público do App**: [https://ais-pre-tipjftmpvsnj3q46fo5wlf-463641464197.us-west1.run.app](https://ais-pre-tipjftmpvsnj3q46fo5wlf-463641464197.us-west1.run.app)
+
+Você também pode hospedar facilmente o projeto em plataformas gratuitas como **Vercel**, **Netlify** ou **Cloudflare Pages** conectando o repositório do GitHub.
+
+---
+
+## 💻 Como Rodar o Projeto Localmente (Desenvolvimento)
 
 1. Clone ou baixe o repositório:
 ```bash
