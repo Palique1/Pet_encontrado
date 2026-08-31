@@ -1,0 +1,7 @@
+{
+  "name": "Pet Encontrado",
+  "description": "Protótipo de aplicativo mobile para encontrar e cadastrar animais de estimação perdidos e encontrados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
